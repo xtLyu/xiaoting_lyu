@@ -7,7 +7,9 @@ main:
   #  url: /talks/
 
 # - title: "Teaching"
-#   url: /teaching/
+  # url: /teaching/
+- title: "Services"
+  url: /services/
 
 - title: "Clustr"
   url: /clustr/
