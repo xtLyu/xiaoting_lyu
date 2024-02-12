@@ -4,7 +4,7 @@ permalink: /services/
 author_profile: true
 ---
 
-## Program Committee Member
+## PC Member
 
 - 2024: ECCV, CVPR
 - 2023: NeurIPS, ICCV, CVPR
