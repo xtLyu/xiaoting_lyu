@@ -15,8 +15,8 @@ author_profile: true
 
 ## External Reviewer: 
 - 2023: S&P, CCS
-- 2022: USENIX Security, CCS, NDSS, S&P, AAAI, PETS
-- 2021: USENIX Security, CCS, ICLR, AAAI, AISACCS, PETS, PPML, AISec
+- 2022: USENIX Security, CCS, NDSS, S&P, PETS
+- 2021: USENIX Security, CCS, ICLR, AISACCS, PETS, PPML, AISec
 - 2020: RAID
 
 ## Teaching Assistant
