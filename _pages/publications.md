@@ -33,7 +33,7 @@ a { TEXT-DECORATION:none }
 
 <h2 id='2024'>2024</h2>
 
-### <span style="color:rgb(39, 117, 182)">SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models</span>
+### <span style="color:rgb(39, 117, 182)">1111111SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models</span>
 <font size="3"> Boyang Zhang, <b>Zheng Li</b>, Ziqing Yang, Xinlei He, Michael Backes, Mario Fritz, Yang Zhang;
 <i>USENIX Security 2024</i></font>
 <a href="https://www.usenix.org/system/files/sec24summer-prepub-617-zhang-boyang.pdf" class="btn--paper" target="_blank">pdf</a>
@@ -145,12 +145,12 @@ a { TEXT-DECORATION:none }
 <a href="https://github.com/zhenglisec/Blind-Watermark-for-DNN" class="btn--code" target="_blank">code</a>
 
 
-### <span style="color:rgb(39, 117, 182)">DeepKeyStego: Protecting Communication by Key-dependent Steganography with Deep Networks</span>
+<!-- ### <span style="color:rgb(39, 117, 182)">DeepKeyStego: Protecting Communication by Key-dependent Steganography with Deep Networks</span>
 <font size="3"><b>Zheng Li</b>,  Ge Han, Shanqing Guo, Chengyu Hu;
 <i>HPCC 2019</i></font>
 <a href="https://ieeexplore.ieee.org/document/8855704" class="btn--paper" target="_blank">pdf</a>
 <a href="https://ieeexplore.ieee.org/document/8855704" class="btn--arxiv" target="_blank">arxiv</a>
-<a href="https://github.com/zhenglisec/DeepKeyStego" class="btn--code" target="_blank">code</a>
+<a href="https://github.com/zhenglisec/DeepKeyStego" class="btn--code" target="_blank">code</a> -->
 
 
 
