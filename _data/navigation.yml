@@ -11,8 +11,8 @@ main:
 - title: "Services"
   url: /services/
 
-- title: "Clustr"
-  url: /clustr/
+# - title: "Clustr"
+#   url: /clustr/
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -20,7 +20,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "CV"
+  # - title: "CV"
   #  url: /cv/
     
   #- title: "Guide"
