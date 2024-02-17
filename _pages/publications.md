@@ -145,12 +145,12 @@ a { TEXT-DECORATION:none }
 <a href="https://github.com/zhenglisec/Blind-Watermark-for-DNN" class="btn--code" target="_blank">code</a>
 
 
-<!-- ### <span style="color:rgb(39, 117, 182)">DeepKeyStego: Protecting Communication by Key-dependent Steganography with Deep Networks</span>
+### <span style="color:rgb(39, 117, 182)">DeepKeyStego: Protecting Communication by Key-dependent Steganography with Deep Networks</span>
 <font size="3"><b>Zheng Li</b>,  Ge Han, Shanqing Guo, Chengyu Hu;
 <i>HPCC 2019</i></font>
 <a href="https://ieeexplore.ieee.org/document/8855704" class="btn--paper" target="_blank">pdf</a>
 <a href="https://ieeexplore.ieee.org/document/8855704" class="btn--arxiv" target="_blank">arxiv</a>
-<a href="https://github.com/zhenglisec/DeepKeyStego" class="btn--code" target="_blank">code</a> -->
+<a href="https://github.com/zhenglisec/DeepKeyStego" class="btn--code" target="_blank">code</a>
 
 
 
