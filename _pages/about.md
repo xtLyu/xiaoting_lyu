@@ -36,5 +36,5 @@ My research centers on Trustworthy Machine Learning (Privacy, Security, and Safe
 - [4/2022] One paper titled "Auditing Membership Leakages of Multi-Exit Networks" got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
 - [3/2021] One paper titled "Membership Leakage in Label-Only Exposures" got accepted in [CCS 2021](https://www.sigsac.org/ccs/CCS2021/)!
 - [8/2019] One paper titled "How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN" got accepted in [ACSAC 2019](https://www.acsac.org/2019/)!
-- [5/2019] One paper titled "DeepKeyStego: Protecting Communication by Key-dependent Steganography with Deep Networks" got accepted in [HPCC 2019] (http://csee.hnu.edu.cn/hpcc2019/)!
+- [5/2019] One paper titled "DeepKeyStego: Protecting Communication by Key-dependent Steganography with Deep Networks" got accepted in [HPCC 2019](http://csee.hnu.edu.cn/hpcc2019/)!
 
