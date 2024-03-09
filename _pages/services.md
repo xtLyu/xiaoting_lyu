@@ -6,7 +6,7 @@ author_profile: true
 
 ## PC Member
 
-- 2024: ECCV, CVPR, MICCAI
+- 2024: ACSAC, ECCV, CVPR, MICCAI
 - 2023: NeurIPS, ICCV, CVPR
 
 ## Journal Reviewer
