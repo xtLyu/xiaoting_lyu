@@ -17,7 +17,7 @@ My research centers on Trustworthy Machine Learning (Privacy, Security, and Safe
 ## Experiences & Education 
 
 - [2023.11 – current] Postdoc at CISPA Helmholtz Center for Information Security. Supervised by Dr. Yang Zhang.
-- [2022.07 – 2022.10] Research Intern at Bell Lab. hosted by Ruichuan Chen.
+- [2022.07 – 2022.10] Research Intern at Bell Lab.
 - [2021.02 – 2023.10] Ph.D. in Computer Science, CISPA Helmholtz Center for Information Security. Supervised by Dr. Yang Zhang.
 - [2017.09 – 2020.06] Master in Computer Science, Shandong University. Supervised by Prof. Shanqing Guo.
 - [2013.09 – 2017.06] Bachelor in Computer Science, Shandong University. Supervised by Prof. Shanqing Guo.
