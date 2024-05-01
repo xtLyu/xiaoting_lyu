@@ -5,11 +5,12 @@ author_profile: true
 ---
 
 ## PC Member
-
+- 2025: PETS
 - 2024: ACSAC, ECCV, CVPR, MICCAI
 - 2023: NeurIPS, ICCV, CVPR
 
 ## Journal Reviewer
+- 2024：TIFS
 - 2023: TIFS, Computers&Security
 - 2019: IEEE Access
 
