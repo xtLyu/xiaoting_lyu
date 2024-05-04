@@ -10,7 +10,6 @@ author_profile: true
 - 2023: NeurIPS, ICCV, CVPR
 
 ## Journal Reviewer
-- 2024: TIFS
 - 2023: TIFS, Computers&Security
 - 2019: IEEE Access
 
