@@ -4,25 +4,12 @@ permalink: /services/
 author_profile: true
 ---
 
-## PC Member
-- 2025: PETS
-- 2024: ACSAC, NeurIPS, ECCV, CVPR, MICCAI
-- 2023: NeurIPS, ICCV, CVPR
-
 ## Journal Reviewer
-- 2023: TIFS, Computers&Security
-- 2019: IEEE Access
+- 2024: TDSC
+- 2023: TDSC
 
 ## External Reviewer: 
-- 2024: S&P
-- 2023: S&P, CCS, NDSS
-- 2022: USENIX Security, CCS, NDSS, S&P, NeurIPS, AsiaCCS, KDD, AAAI, PETS
-- 2021: USENIX Security, CCS, ICLR, AsiaCCS, PETS, PPML, AISec
-- 2020: RAID
+- 2024: KDD
 
-## Teaching Assistant
-- Advanced Lecture: Machine Learning Privacy, Summer 2022, Saarland University
-- Seminar: Data-driven Understanding of the Disinformation Epidemic, Summer 2022, Saarland University
-- Seminar: Privacy of Machine Learning, Winter 2021, Saarland University
-- Advanced Lecture: Privacy Enhancing Technologies, Summer 2021, Saarland University
-- Seminar: Data-driven Understanding of the Disinformation Epidemic, Summer 2021, Saarland University
+## Organizing a competition
+-2023： DataCon Big Data Security Analysis Competition-Jointly initiated by Qi'anxin Group and Tsinghua University, it is the first large-scale competition in China aimed at big data security analysis.
