@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : zhenglisec
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng Li"
+  name             : "Xiaoting Lyu"
   avatar           : "zheng.png"
-  bio              : "Postdoc at CISPA"
-  location         : "Saarbrücken Germany"
+  bio              : "Ph.D. at Beijing Jiaotong University"
+  location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=xEAaaGsAAAAJ&hl=en"
-  email            :  "zheng.li@cispa.de"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=1gPXbPYAAAAJ"
+  email            : "xiaoting.lyu@bjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhenglisec"
+  github           : "xtLyu"
   google_plus      :
   keybase          :
   instagram        :
