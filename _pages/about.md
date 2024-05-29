@@ -24,7 +24,6 @@ My research focuses on enhancing the robustness, privacy and generalization of M
 - [2015.09 – 2019.06] Bachelor in Computer Science, Wuhan University of Technology. 
 
 ## News
-## News
 - [05/2024] One paper titled “Cross-Context Backdoor Attacks against Graph Prompt Learning” got accepted in [KDD 2024]!
 - [05/2024] One paper titled “PnA: Robust Aggre- gation Against Poisoning Attacks to Federated Learning for Edge Intelligence” got accepted in [TSN]!
 - [04/2024] One paper titled “Not One Less: Exploring Interplay between User Profiles and Items in Untargeted Attacks against Federated Recommendation” got accepted in [CCS 2024]!
