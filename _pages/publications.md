@@ -40,7 +40,7 @@ a { TEXT-DECORATION:none }
 <a href="https://arxiv.org/abs/2405.17984" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/xtLyu/CrossBA" class="btn--code" target="_blank">code</a>
 
-### <span style="color:rgb(39, 117, 182)">PnA: Robust Aggre- gation Against Poisoning Attacks to Federated Learning for Edge Intelligence</span>
+### <span style="color:rgb(39, 117, 182)">PnA: Robust Aggregation Against Poisoning Attacks to Federated Learning for Edge Intelligence</span>
 <font size="3"> Jingkai Liu, <b>Xiaoting Lyu</b>, Yongzhong He, Li Duan, Jiqiang Liu, Hongliang Ma, C. Su, Wei Wang;
 <i>TSN</i></font>
 <a href="https://xtLyu.github.io/xiaoting_lyu/" class="btn--paper" target="_blank">pdf</a>
