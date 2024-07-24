@@ -32,6 +32,12 @@ a { TEXT-DECORATION:none }
 </style>
 
 <h2 id='2024'>2024</h2>
+### <span style="color:rgb(39, 117, 182)">Lurking in the shadows: Unveiling Stealthy Backdoor Attacks against Personalized Federated Learning</span>
+<font size="3"> <b>Xiaoting Lyu</b>, Yufei Han, Wei Wang, Jingkai Liu, Yongsheng Zhu, Guangquan Xu, Jiqang Liu, Xiangliang Zhang;
+<i>KDD 2024</i></font>
+<a href="https://xtLyu.github.io/xiaoting_lyu/" class="btn--paper" target="_blank">pdf</a>
+<a href="https://arxiv.org/abs/2406.06207" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://github.com/xtLyu/CrossBA" class="btn--code" target="_blank">code</a>
 
 ### <span style="color:rgb(39, 117, 182)">Cross-Context Backdoor Attacks against Graph Prompt Learning</span>
 <font size="3"> <b>Xiaoting Lyu</b>, Yufei Han, Wei Wang, Hangwei Qian, Ivor Tsang, Xiangliang Zhang;
