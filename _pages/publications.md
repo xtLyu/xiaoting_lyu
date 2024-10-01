@@ -33,6 +33,13 @@ a { TEXT-DECORATION:none }
 
 <h2 id='2024'>2024</h2>
 
+### <span style="color:rgb(39, 117, 182)">LCOBA: Collusive Backdoor Attacks with Optimized Trigger for Federated Learning</span>
+<font size="3"> <b>Xiaoting Lyu</b>, Yufei Han, Wei Wang, Jingkai Liu, Bin Wang, Kai Chen, Jiqang Liu, Xiangliang Zhang;
+<i>TDSC</i></font>
+<a href="https://ieeexplore.ieee.org/document/10638807" class="btn--paper" target="_blank">pdf</a>
+<a href="https://ieeexplore.ieee.org/document/10638807" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://ieeexplore.ieee.org/document/10638807" class="btn--code" target="_blank">code</a>
+
 ### <span style="color:rgb(39, 117, 182)">Lurking in the shadows: Unveiling Stealthy Backdoor Attacks against Personalized Federated Learning</span>
 <font size="3"> <b>Xiaoting Lyu</b>, Yufei Han, Wei Wang, Jingkai Liu, Yongsheng Zhu, Guangquan Xu, Jiqang Liu, Xiangliang Zhang;
 <i>Uesnix Security 2024</i></font>
