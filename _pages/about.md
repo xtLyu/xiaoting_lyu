@@ -17,6 +17,7 @@ My research focuses on enhancing the robustness, privacy and generalization of M
 
 ## Experiences & Education 
 
+- [2024.09 – 2025.03] CSC in A*STAR (Singapore). Supervised by Prof. Hangwei Qian.
 - [2021.09 – current] Ph.D. in Cybersecurity, Beijing Jiaotong University. Supervised by Prof. Wei Wang.
 - [2019.09 – 2021.06] Master in Cybersecurity, Beijing Jiaotong University. Supervised by Prof. Wei Wang.
 - [2020.06 – 2020.12] Remote Internship Program at Kaust.
@@ -24,6 +25,7 @@ My research focuses on enhancing the robustness, privacy and generalization of M
 - [2015.09 – 2019.06] Bachelor in Computer Science, Wuhan University of Technology. 
 
 ## News
+- [07/2024] One paper titled “"COBA: Collusive Backdoor Attacks with Optimized Trigger for Federated Learning” got accepted in [TDSC]!
 - [05/2024] One paper titled “Lurking in the shadows: Unveiling Stealthy Backdoor Attacks against Personalized Federated Learning” got accepted in [Usenix Security 2024]!
 - [05/2024] One paper titled “Cross-Context Backdoor Attacks against Graph Prompt Learning” got accepted in [KDD 2024]!
 - [05/2024] One paper titled “PnA: Robust Aggre- gation Against Poisoning Attacks to Federated Learning for Edge Intelligence” got accepted in [TSN]!
