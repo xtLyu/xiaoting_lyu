@@ -33,7 +33,7 @@ a { TEXT-DECORATION:none }
 
 <h2 id='2024'>2024</h2>
 
-### <span style="color:rgb(39, 117, 182)">LCOBA: Collusive Backdoor Attacks with Optimized Trigger for Federated Learning</span>
+### <span style="color:rgb(39, 117, 182)">COBA: Collusive Backdoor Attacks with Optimized Trigger for Federated Learning</span>
 <font size="3"> <b>Xiaoting Lyu</b>, Yufei Han, Wei Wang, Jingkai Liu, Bin Wang, Kai Chen, Jiqang Liu, Xiangliang Zhang;
 <i>TDSC</i></font>
 <a href="https://ieeexplore.ieee.org/document/10638807" class="btn--paper" target="_blank">pdf</a>
