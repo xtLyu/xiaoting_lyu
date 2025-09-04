@@ -15,7 +15,7 @@ I received my Ph.D. degree in Cyberspace Security from [Beijing Jiaotong Univers
 
 My research interests center on AI security and controllability, with a particular focus on large models and federated learning. I am interested in exploring the vulnerabilities of large-scale models, such as backdoor attacks, adversarial manipulation, and robustness challenges under distributional shifts, as well as developing defense mechanisms that enhance their controllability and trustworthiness. I am also interested in trustworthy graph intelligence, particularly in studying robustness, interpretability, and safety issues in graph neural networks and graph-augmented large models.
 
-I am always open to research collaborations on these topics, and welcome opportunities to work with colleagues who share an interest in building secure, robust, and trustworthy intelligent systems. Drop me an [email](xiaoting.lyu@xjtu.edu.cn).
+I am always open to research collaborations on these topics, and welcome opportunities to work with colleagues who share an interest in building secure, robust, and trustworthy intelligent systems. Drop me an [email](xiaoting.lyu@xjtu.edu.cn) if you are interested!.
 
 
 ## Experiences & Education 
