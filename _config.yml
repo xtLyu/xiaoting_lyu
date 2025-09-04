@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaoting Lyu / 吕晓婷"
 title_separator          : "-"
 name                     : &name "Xiaoting"
-description              : &description "3-year Ph.D. student at Beijing Jiaotong University"
+description              : &description "Assistant Professor at Xi'an Jiaotong University"
 url                      : https://xtLyu.github.io/xiaoting_lyu/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiaoting Lyu"
   avatar           : "xiaoting.png"
-  bio              : "Ph.D. at Beijing Jiaotong University"
-  location         : "Beijing, China"
+  bio              : "Assistant Professor at Xi'an Jiaotong University"
+  location         : "China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=1gPXbPYAAAAJ"
-  email            : "xiaoting.lyu@bjtu.edu.cn"
+  email            : "xiaoting.lyu@xjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
