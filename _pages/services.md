@@ -10,6 +10,9 @@ author_profile: true
 
 ## External Reviewer: 
 - 2024: KDD
+- 2025：AAAI
 
 ## Organizing a competition
-- 2023： DataCon Big Data Security Analysis Competition-Jointly initiated by Qi'anxin Group and Tsinghua University, it is the first large-scale competition in China aimed at big data security analysis.
+- 2023： DataCon Big Data Security Analysis Competition-Jointly initiated by Qi'anxin Group and Tsinghua University.
+- 2024： DataCon Big Data Security Analysis Competition-Jointly initiated by Qi'anxin Group and Tsinghua University.
+- 2025： DataCon Big Data Security Analysis Competition-Jointly initiated by Qi'anxin Group and Tsinghua University.
