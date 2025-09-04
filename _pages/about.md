@@ -8,17 +8,20 @@ redirect_from:
 
 ---
 
-Hi! I am a 3th-year Ph.D. student in School of Computer Science and Technology at [Beijing Jiaotong University](https://scit.bjtu.edu.cn/), advised by [Prof. Wei Wang](http://faculty.bjtu.edu.cn/8493/). I am also advised by [Dr. Yufei Han](https://scholar.google.com/citations?user=xdCvBg0AAAAJ&hl=en) (INRIA). Previously, I received my Bachelor degree from  Computer Science and Technology at [Wuhan University of Technology](https://www.whut.edu.cn/) in June 2019. 
+Hi! I am an Assistant Professor in the School of Software, [Xi'an Jiaotong University](https://se.xjtu.edu.cn/), working with Prof. Wei Wang.
+I received my Ph.D. degree in Cyberspace Security from [Beijing Jiaotong University](https://cst.bjtu.edu.cn/), advised by [Prof. Wei Wang](http://faculty.bjtu.edu.cn/8493/). I am also advised by [Dr. Yufei Han](https://scholar.google.com/citations?user=xdCvBg0AAAAJ&hl=en) (INRIA). Before that, I received my Bachelor degree from  Computer Science and Technology at [Wuhan University of Technology](https://www.whut.edu.cn/) in June 2019. I also actively collaborate with Dr. Hangwei Qian (ASTAR) and other colleagues  during my Ph.D. journey.
 
 ## Research Interests
 
-My research focuses on enhancing the robustness, privacy and generalization of ML, and the intersection of these topics, especially in language models, generative models, graph learning, and federated learning.
+My research interests center on AI security and controllability, with a particular focus on large models and federated learning. I am interested in exploring the vulnerabilities of large-scale models, such as backdoor attacks, adversarial manipulation, and robustness challenges under distributional shifts, as well as developing defense mechanisms that enhance their controllability and trustworthiness. I am also interested in trustworthy graph intelligence, particularly in studying robustness, interpretability, and safety issues in graph neural networks and graph-augmented large models.
+
+I am always open to research collaborations on these topics, and welcome opportunities to work with colleagues who share an interest in building secure, robust, and trustworthy intelligent systems. Drop me an [email](xiaoting.lyu@xjtu.edu.cn).
 
 
 ## Experiences & Education 
 
+- [2021.09 – 2025.06] Ph.D. in Cybersecurity, Beijing Jiaotong University. Supervised by Prof. Wei Wang.
 - [2024.09 – 2025.03] CSC in A*STAR (Singapore). Supervised by Prof. Hangwei Qian.
-- [2021.09 – current] Ph.D. in Cybersecurity, Beijing Jiaotong University. Supervised by Prof. Wei Wang.
 - [2019.09 – 2021.06] Master in Cybersecurity, Beijing Jiaotong University. Supervised by Prof. Wei Wang.
 - [2020.06 – 2020.12] Remote Internship Program at Kaust.
 - [2019.07 – 2019.09] Research Internship at CNCERT.
